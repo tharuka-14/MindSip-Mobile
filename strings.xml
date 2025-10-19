@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewBewell</string>
+    <string name="bewell" />
+    <string name="bewell_logo" />
+    <string name="structure_your_days_to_focus_on_what_truly_matters">Structure your days to focus on what truly matters</string>
+    <string name="create_a_steady_routine_to_stay_organized_and_move_towards_goals_day_by_day">Create a steady routine to stay organized and move towards goals day by day</string>
+    <string name="build_a_balanced_schedule_to_feel_productive_and_happy">Build a balanced schedule to feel productive and happy</string>
+    <string name="make_time_for_hobbies_rest_and_self_care_while_still_rocking_at_work">Make time for hobbies, rest and self care while still rocking at work.</string>
+</resources>
